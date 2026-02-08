@@ -1,0 +1,7 @@
+tools:
+  - name: web_search
+    always: true
+  - name: memory_read
+    always: true
+  - name: memory_write
+    always: true

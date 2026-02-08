@@ -1,0 +1,6 @@
+name: freeform
+version: 1.0.0
+steps:
+  - agent: general-assistant
+    input: user_message
+    output: response

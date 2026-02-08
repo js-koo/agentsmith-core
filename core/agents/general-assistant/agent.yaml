@@ -1,0 +1,13 @@
+name: general-assistant
+version: 1.0.0
+model: claude-sonnet-4-5-20250929
+domain_scope:
+  - general
+  - engineering
+  - research
+input_schema: user_message
+output_schema: assistant_response
+overridable_fields:
+  - tone
+  - language
+  - max_response_length

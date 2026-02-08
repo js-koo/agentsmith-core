@@ -1,0 +1,3 @@
+name: general
+description: Default domain for ad-hoc tasks and general conversation
+default_workflow: freeform
